@@ -27,9 +27,11 @@ ul{
     border-style: solid;
     border-color: crimson;
     /* border-color:crimson */
-    border-bottom: 4px solid crimson;
-    border-left: 8px dashed crimson;
+    border-bottom: 4px dotted #46000e;
+    border-left: 8px dashed #f16c87;
 }
 li{
     list-style-type: none;
+    text-shadow: 2px 2px #e9e9e9;
+    
 }
